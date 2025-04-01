@@ -1,8 +1,8 @@
 ### Hi there 👋
  
 - 🤭 I’m Albin 19 year's old.
-- 🙂 I'm focusing on html,css,c,bootstrap 
-- ⚡ I know how to bulid a front-end page
+- 🙂 
+- ⚡ 
 
 ## 📊 Stats
 
